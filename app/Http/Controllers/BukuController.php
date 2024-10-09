@@ -50,6 +50,7 @@ class BukuController extends Controller
         return redirect('/buku');
     }
 
+    
     /**
      * Display the specified resource.
      */
